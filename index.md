@@ -23,7 +23,7 @@
 <img src="./img/image1.jpg" width="450px" height="300px">  
 <img src="./img/image2.jpg" width="450px" height="300px">  
 -동영상  
-
+링크 : (https://youtu.be/OH5NlNOIo7w)
 <br><br>
 # [대표 이미지]  
 
